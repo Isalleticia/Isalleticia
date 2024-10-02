@@ -1,16 +1,18 @@
-## Hi there 👋
+**boas vindas ao meu perfil**👋🖤
 
-<!--
-**Isalleticia/Isalleticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**meu nome é isadora leticia**
 
-Here are some ideas to get you started:
+_estou estudando no alura_  🤎
+  
+_estou me desenvolvendo na linguagem javaScript_  
+  
+  _utilizo esse espaço para minha organização e meus projetos_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **voçe pode entrar em contato comigo**📧
+  
+**leticiaisadora68@gmail.com**
+
+@isa.llletticia
+
+
+![](https://media.tenor.com/zVvViQKqa0MAAAAi/psybirdb1oom.gif)
